@@ -36,6 +36,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
 </div>
 
+
+###
+
+<h2 align="left">Follow me</h2>
 ###
 
 <div align="left">
