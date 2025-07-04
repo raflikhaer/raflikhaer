@@ -3,14 +3,14 @@
 
 - 🔭 I’m currently studying on **Information System Major**
 
-- 👨‍💻 All of my projects are available at [https://simorwa.great-site.net/](https://simorwa.great-site.net/)
+- 👨‍💻 All of my projects are available at [https://linktr.ee/raplykhr](https://linktr.ee/raplykhr)
 
 - 📫 How to reach me **emyubelongstome@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/raflikr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raflikr" height="30" width="40" /></a>
-<a href="https://fb.com/rafli khaer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rafli khaer" height="30" width="40" /></a>
+<a href="https://fb.com/rafli.alkaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rafli.alkaf" height="30" width="40" /></a>
 <a href="https://instagram.com/rafliikr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rafliikr" height="30" width="40" /></a>
 </p>
 
