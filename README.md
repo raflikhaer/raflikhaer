@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rafli</h1>
-<h3 align="center">A passionate frontend developer from Jawa</h3>
+<h3 align="center">A passionate frontend developer from Cilacap, Jawa tengah</h3>
 
-- 🔭 I’m currently studying on **Information System Major**
+- 🔭 I’m currently studying in **Information Systems Study Program**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/raplykhr](https://linktr.ee/raplykhr)
+- 👨‍💻 All of my portofolio projects are available at [https://linktr.ee/raplykhr](https://linktr.ee/raplykhr)
 
-- 📫 How to reach me **emyubelongstome@gmail.com**
+- 📫 How to reach me **raflikhalifahrahman@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
