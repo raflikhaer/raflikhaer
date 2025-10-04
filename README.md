@@ -1,6 +1,5 @@
-<h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
+<h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> I'm Rafli Khalifah Rahman</h1>
 
-<h1 align="center">Hi 👋, I'm Rafli</h1>
 <h3 align="center">A passionate frontend developer from Cilacap, Jawa tengah</h3>
 
 - 🔭 I’m currently studying in **Information Systems Study Program**
